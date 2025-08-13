@@ -1,6 +1,8 @@
+<div>
+<img src="vlan2.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
+</div>
 
-
-📄 وصف مشروع الشبكة VLAN + VTP + SSH + Telnet
+ وصف مشروع الشبكة VLAN + VTP + SSH + Telnet
 
 1. الهدف من المشروع
 
