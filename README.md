@@ -1,5 +1,5 @@
 <div>
-<img src="vla2.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
+<img src="vlan2.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
 </div>
 
  وصف مشروع الشبكة VLAN + VTP + SSH + Telnet
